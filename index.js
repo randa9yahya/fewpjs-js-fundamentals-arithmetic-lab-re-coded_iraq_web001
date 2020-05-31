@@ -7,7 +7,7 @@ var random
 var mod 
 var multiply = num1*num2;
 var max = [1,2,3,20];
-random = Math.floor(Math.random() * 10);
+random = Math.cilce(Math.random() * 10);
 mod = 16 % 6;
 Math.max(max);
 //Math.max([...]);
